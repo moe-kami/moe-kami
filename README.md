@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+![Hero image](./hero_img.jpg)
 
 I am a web developer based in Australia.
 
