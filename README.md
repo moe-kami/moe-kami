@@ -1,7 +1,7 @@
-![hero image](./hero_img.jpg)
+![hero image](./hero_img.png)
 
 # 🗣️ About Me:
-Hi, I am Moe, a passionate web developer based in Australia. 
+Hi, I am Moe, a passionate web developer based in Australia. Completed a certificate IV in Web Development at TAFE SA in 2023.
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moe-kamimoto) 
