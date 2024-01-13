@@ -1,8 +1,6 @@
-![Hero image](./hero_img.jpg)
+### 👋 Hi, I'm Moe, A Web Developer.
 
-I am a web developer based in Australia.
-
-<h2>What I use to create projects...</h2>
+## What I use to create projects...
 HTML, CSS, Sass, Bootstrap, JavaScript, jQuery, PHP, Python, MySQL
 
 <!--
