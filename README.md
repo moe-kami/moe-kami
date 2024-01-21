@@ -1,6 +1,10 @@
 ![hero image](./hero_img.png)
 
-I am a passionate web developer based in Australia. Completed a certificate IV in Web Development at TAFE SA in 2023.
+<br/>
+
+I am a passionate web developer based in Australia who has completed a certificate IV in Web Development at TAFE.
+Having a unique background as a professional in the hospitality industry and a web content writer, my passion has always been to provide services meeting customers/clients needs and exceeding their expectation.
+
 
 <br/>
 
